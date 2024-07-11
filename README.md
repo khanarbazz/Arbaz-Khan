@@ -20,7 +20,3 @@ As a passionate data analyst, I thrive on turning raw data into compelling stori
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=khanarbazz&icon=0&color=0)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=khanarbazz&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
