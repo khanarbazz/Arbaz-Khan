@@ -7,17 +7,15 @@ As a passionate data analyst, I thrive on turning raw data into compelling stori
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/khan-arbaz-da) 
 
+# 📞 Contact Me:
+[![Email](https://img.shields.io/badge/Email-%23000000.svg?logo=gmail&logoColor=white)](mailto:arbazk132000@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%23000000.svg?logoColor=white)](tel:+919130210252)
+
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-## Skills
-
-- **Data Analysis:** Leveraging SQL, Python, and Excel for in-depth data manipulation and analysis.
-- **Data Visualization:** Creating compelling visualizations with Power BI, Tableau, and Python libraries.
-- **Dashboard Development:** Designing interactive dashboards to present data insights effectively.
-- **Statistical Analysis:** Applying statistical methods to derive actionable insights from data.
-- **Problem Solving:** Tackling complex data-related challenges with innovative solutions
-
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 # 📊 GitHub Stats:
 ![Arbaz Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanarbazz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
@@ -27,8 +25,7 @@ As a passionate data analyst, I thrive on turning raw data into compelling stori
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanarbazz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=khanarbazz&icon=0&color=0)
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=khanarbazz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 
@@ -36,5 +33,3 @@ As a passionate data analyst, I thrive on turning raw data into compelling stori
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### [Zomato Data Analysis Using SQL](https://github.com/khanarbazz/Zomato-Data-Analysis)
-![SQL](https://img.icons8.com/color/48/000000/sql.png)
